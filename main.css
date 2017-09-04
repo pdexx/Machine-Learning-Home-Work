@@ -10,7 +10,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f59090', end
     margin: 5rem auto;
     max-width: 60rem;
     height: 100rem;
-    
+    box-shadow:3px 3px 5px 6px #cccccc;
     background-color: #FAFFF7;
     padding:2rem;
     border-radius: 2rem;         
