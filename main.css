@@ -1,0 +1,25 @@
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f59090+0,8ed6f2+95 */
+background: rgb(245,144,144); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(245,144,144,1) 0%, rgba(142,214,242,1) 95%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(245,144,144,1) 0%,rgba(142,214,242,1) 95%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(245,144,144,1) 0%,rgba(142,214,242,1) 95%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f59090', endColorstr='#8ed6f2',GradientType=0 ); /* IE6-9 */
+}
+.container{
+    margin: 5rem auto;
+    max-width: 60rem;
+    height: 100rem;
+    
+    background-color: #FAFFF7;
+    padding:2rem;
+    border-radius: 2rem;         
+}
+a{
+    
+    text-decoration: none;
+}
+a:hover{
+    color: #99E9EF;
+    text-decoration: none;
+}
