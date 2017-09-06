@@ -19,7 +19,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f59090', end
     border-radius: 2rem;         
 }
 a{
-    
+    color: #720099;
     text-decoration: none;
 }
 a:hover{
